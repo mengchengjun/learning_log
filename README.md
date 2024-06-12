@@ -1,0 +1,2 @@
+# learning_log
+基于PythonDjango开发的学习笔记项目
